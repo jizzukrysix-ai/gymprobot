@@ -1,0 +1,15 @@
+{
+  "name": "bodypump-bot",
+  "version": "1.0.0",
+  "description": "Telegram Bot for BodyPump Mini App",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
